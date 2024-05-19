@@ -8,6 +8,11 @@
 *.tif
 *.webp
 *.svg
+*.mp4
+*.wav
+*.mp3
+*.avi
+*.mpeg
 
 # Other common ignores (optional)
 # Ignore node_modules folder
