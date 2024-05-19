@@ -41,6 +41,7 @@
 - easyOCR
 
   ```bash
+  pip install torch torchvision torchaudio
   pip install easyocr
   ```
 

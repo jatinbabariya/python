@@ -22,5 +22,8 @@ if response.status_code == 200:
     for detection in result:
         text = detection[1]
         print(text)
+
+    # result = reader.readtext(file_path, detail = 0)
+    # print(result)
 else:
     print("Something went wrong")
