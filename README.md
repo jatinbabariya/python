@@ -10,7 +10,10 @@
   pip install opencv-python
   ```
 
-- Finally run the program
+- Put the video in root directory of this project
+- Replace the name and extension of video with "video.mp4"
+
+- Finally run the code
 
   ```bash
   python 01_video-convert.py
