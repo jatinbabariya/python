@@ -3,6 +3,7 @@
 > - [02_easyocr.py](#Required-Libraries-for-easyocr)
 > - [03_custom-img.py](#custom-image)
 > - [04_cstm-adv-img.py](#custom-image-advance)
+> - [05_cstm-lng-img.py](#custom-language-image)
 
 ## Common Library
 
@@ -69,4 +70,14 @@
 
   ```bash
   python 04_cstm-adv-img.py
+  ```
+
+## Custom Language Image
+
+- Put the image in root directory of this project
+- Replace the name and extension of image with "xxx.xxx"
+- Finally run the program
+
+  ```bash
+  python 05_cstm-lng-img.py
   ```
