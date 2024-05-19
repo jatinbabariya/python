@@ -4,7 +4,7 @@ import numpy as np
 import os
 
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
-imgName = "4.jpg"
+imgName = "xxx.xxx"
 
 if os.path.exists(imgName) and os.path.isfile(imgName):
     try:
