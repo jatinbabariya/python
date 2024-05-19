@@ -1,6 +1,3 @@
-> # Python Projects
+> # Python Project & Branches
 
-> ### Branches
-
-- Image to Text (Project Name)
-  - **imgToText** (Branch Name)
+- [Image to Text](https://github.com/jatinbabariya/python/tree/imgToText)
