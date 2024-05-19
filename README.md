@@ -1,7 +1,6 @@
 > # Python Projects
 
-> ## Image to Text Project
+> ### Branches
 
-> ### Branch Names
-
-- **imgToText**
+- Image to Text (Project Name)
+  - **imgToText** (Branch Name)
