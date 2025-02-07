@@ -24,6 +24,8 @@ python -m venv .venv
 
   - .vnev/bin/activate
 
+---
+
 > - [01_video-convert.py](#Required-Libraries-for-OpenCV)
 
 ## Required Libraries for OpenCV
